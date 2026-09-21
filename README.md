@@ -32,3 +32,11 @@ Download combined_data.csv from Kaggle and save it as data/spam.csv.
 ## Limitations
 Trained on older emails (Enron and TREC), so it can miss new spam styles
 and very short messages.
+
+## Screenshots
+
+### Legitimate email
+![Legitimate email](screenshots/spam1.png)
+
+### Spam email
+![Spam email](screenshots/spam2.png)
