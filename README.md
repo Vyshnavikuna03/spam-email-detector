@@ -40,3 +40,5 @@ and very short messages.
 
 ### Spam email
 ![Spam email](screenshots/spam2.png)
+
+**Live demo:** https://spam-email-detector-c3wihortrbkdeunimshgot.streamlit.app
